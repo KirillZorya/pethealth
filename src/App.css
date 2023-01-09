@@ -1,0 +1,16 @@
+.main {
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.image_container {
+    height: 90vh;
+    background-image: url('https://www.flytap.com/-/media/Flytap/new-tap-pages/travelling-with-animals/pets/flying-with-pets-og-image-1200x630.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.center_div {
+    margin: 0 auto;
+}
